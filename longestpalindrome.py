@@ -1,7 +1,7 @@
 
 
 def longestPalindrome(s):
-    theArray = s.split(" ")
+    theArray = s.split(" jlkjlj jlkjlkj")
     theMax = -1
     theMaxSub = "Not found"
     for substr in theArray:
